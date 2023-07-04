@@ -13,7 +13,7 @@
     
 ---
 
-If you find our code or paper useful, please cite as (This paper will be updated later)
+If you find our code or paper useful, please cite as (This paper in journal version will be updated later)
 
 ```bibtex
 @article{wu2022two,
