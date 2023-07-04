@@ -29,7 +29,7 @@ If you find our code or paper useful, please cite as (This paper will be updated
 Accurate airway segmentation from computed tomography (CT) images is critical for planning navigation bronchoscopy and realizing a quantitative assessment of airway-related chronic obstructive pulmonary disease (COPD). Existing methods face difficulty in airway segmentation, particularly for the small branches of the airway. These difficulties arise due to the constraints of limited labeling and failure to meet clinical use requirements in COPD. We propose a two-stage framework with a novel 3D contextual transformer for segmenting the overall airway and small airway branches using CT images. The method consists of two training stages sharing the same modified 3D U-Net network. The novel 3D contextual transformer block is integrated into both the encoder and decoder path of the network to effectively capture contextual and long-range information. In the first training stage, the proposed network segments the overall airway with the overall airway mask. To improve the performance of the segmentation result, we generate the intrapulmonary airway branch label, and train the network to focus on producing small airway branches in second training stage. Extensive experiments were performed on in-house and multiple public datasets. Quantitative and qualitative analyses demonstrate that our proposed method extracts significantly more branches and longer lengths of the airway tree, while accomplishing state-of-the-art airway segmentation performance.  
 
 <p align="center">
-<img src="graph abstract.png" alt="Transformerairway" width="1000"/>
+<img src="abstract.png" alt="Transformerairway" width="1000"/>
 </p>
 
 
