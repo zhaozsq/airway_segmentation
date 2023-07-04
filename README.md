@@ -56,7 +56,7 @@ In this project, we implement our method using the Pytorch library, the structur
 1. The in-house dataset was provided by the hospital. 
 2. The ISICDM dataset was released in the ISICDM 2021 challenge and labeled by the challenge organizer.
 3. [EXACT’09 challenge dataset](http://image.diku.dk/exact/)
-4. Binary airway segmentation (BAS) dataset: This can be found in the paper [Learning tubule-sensitive CNNs for pulmonary airway and artery-vein segmentation in CT](https://arxiv.org/abs/2012.05767) 
+4. Binary airway segmentation (BAS) dataset: This can be found in the paper: [Learning tubule-sensitive CNNs for pulmonary airway and artery-vein segmentation in CT](https://arxiv.org/abs/2012.05767) 
 5. [Airway Tree Modeling 2022 (ATM22) dataset](https://atm22.grand-challenge.org/)
 ---
 
@@ -70,9 +70,9 @@ Code adopted and modified from:
 ---
 
 ## Other information
-MICCAI Challenge ATM2022 4th place, More details will be added soon.
+MICCAI Challenge ATM-22 4th place, More details will be added soon.
 
 ## Contact
-For any queries, please raise an issue or contact [Yanan Wu](mailto:yananwu513@gmail.com) and [Shuiqing Zhao](ddddddd).
+For any queries, please raise an issue or contact [Yanan Wu](mailto:yananwu513@gmail.com) and [Shuiqing Zhao](zhaoshuiqingneu@gmail.com).
 
 ---
