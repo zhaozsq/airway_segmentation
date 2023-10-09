@@ -24,6 +24,14 @@ If you find our code or paper useful, please cite as (This paper in journal vers
   year={2023},
   publisher={Elsevier}
 }
+@article{wu2023transformer,
+  title={Transformer-based 3D U-Net for pulmonary vessel segmentation and artery-vein separation from CT images},
+  author={Wu, Yanan and Qi, Shouliang and Wang, Meihuan and Zhao, Shuiqing and Pang, Haowen and Xu, Jiaxuan and Bai, Long and Ren, Hongliang},
+  journal={Medical \& Biological Engineering \& Computing},
+  pages={1--15},
+  year={2023},
+  publisher={Springer}
+}
 ```
 
 ---
